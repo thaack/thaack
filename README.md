@@ -1,4 +1,4 @@
-I'm @thaack. I am interested in any and all things *nix. I am currently learning more about the kernel and am working on a LFS build. Thanks!
+Hi I'm @thaack.
 
 <!---
 thaack/thaack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
